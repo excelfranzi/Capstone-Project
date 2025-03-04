@@ -4,5 +4,5 @@ Welcome to my Data Analytics and Visualization Capstone Project. This comprehens
 
 ## Dashboard Access
 ### Direct Link
-🔗 [View Cognos Dashboard](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FFinal_project&action=view&mode=dashboard&subView=model0000019561719363_00000000)
+🔗 [View Cognos Dashboard](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.public_folders%2FAli%2FFinal_project&action=view&mode=dashboard&subView=model00000195617260c5_00000000)
 
